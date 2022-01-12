@@ -1,0 +1,1 @@
+Normal codes of python
